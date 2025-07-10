@@ -176,7 +176,7 @@ const Footer = () => {
             </Link>
           </div>
           <p className="text-sm text-muted-foreground">
-            © 2024 EcomStore. All rights reserved.
+            © 2024 EcomStore. All rights reserved. Designed By NeonStack
           </p>
         </div>
       </div>
